@@ -1,0 +1,14 @@
+C:\Users\Fcost\OneDrive\Área de Trabalho\C#\TreinodeExeception\bin\Debug\net8.0\TreinoDeException.exe
+C:\Users\Fcost\OneDrive\Área de Trabalho\C#\TreinodeExeception\bin\Debug\net8.0\TreinoDeException.deps.json
+C:\Users\Fcost\OneDrive\Área de Trabalho\C#\TreinodeExeception\bin\Debug\net8.0\TreinoDeException.runtimeconfig.json
+C:\Users\Fcost\OneDrive\Área de Trabalho\C#\TreinodeExeception\bin\Debug\net8.0\TreinoDeException.dll
+C:\Users\Fcost\OneDrive\Área de Trabalho\C#\TreinodeExeception\bin\Debug\net8.0\TreinoDeException.pdb
+C:\Users\Fcost\OneDrive\Área de Trabalho\C#\TreinodeExeception\obj\Debug\net8.0\TreinoDeException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fcost\OneDrive\Área de Trabalho\C#\TreinodeExeception\obj\Debug\net8.0\TreinoDeException.AssemblyInfoInputs.cache
+C:\Users\Fcost\OneDrive\Área de Trabalho\C#\TreinodeExeception\obj\Debug\net8.0\TreinoDeException.AssemblyInfo.cs
+C:\Users\Fcost\OneDrive\Área de Trabalho\C#\TreinodeExeception\obj\Debug\net8.0\TreinoDeException.csproj.CoreCompileInputs.cache
+C:\Users\Fcost\OneDrive\Área de Trabalho\C#\TreinodeExeception\obj\Debug\net8.0\TreinoDeException.dll
+C:\Users\Fcost\OneDrive\Área de Trabalho\C#\TreinodeExeception\obj\Debug\net8.0\refint\TreinoDeException.dll
+C:\Users\Fcost\OneDrive\Área de Trabalho\C#\TreinodeExeception\obj\Debug\net8.0\TreinoDeException.pdb
+C:\Users\Fcost\OneDrive\Área de Trabalho\C#\TreinodeExeception\obj\Debug\net8.0\TreinoDeException.genruntimeconfig.cache
+C:\Users\Fcost\OneDrive\Área de Trabalho\C#\TreinodeExeception\obj\Debug\net8.0\ref\TreinoDeException.dll
